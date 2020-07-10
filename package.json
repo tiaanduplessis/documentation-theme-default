@@ -26,7 +26,7 @@
     "concat-stream": "^1.5.0",
     "documentation-theme-utils": "^3.0.0",
     "highlight.js": "^9.0.0",
-    "lodash": "4.11.1",
+    "lodash": "4.17.16",
     "remark": "^4.1.2",
     "remark-html": "^3.0.0",
     "unist-util-visit": "1.1.0",
